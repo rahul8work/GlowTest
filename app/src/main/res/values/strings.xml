@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GlowTest</string>
+    <string name="collection_item_header_main_text">Handpicked Collections For You</string>
+    <string name="collection_item_header_right_text"><u>Filter</u></string>
+    <string name="collection_item_collection_main_image_banner_text">Earn upto Rs:500 / Piece</string>
+    <string name="collection_item_collection_button_copy_shop">Copy to my shop</string>
+    <string name="collection_item_collection_button_share">Share to earn</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="collection_item_default_padding">10dp</dimen>
+    <dimen name="collection_item_default_margin">10dp</dimen>
+    <dimen name="collection_item_inner_default_margin">5dp</dimen>
+
+    <dimen name="collection_item_header_main_text_size">16sp</dimen>
+    <dimen name="collection_item_header_right_text_size">14sp</dimen>
+    <dimen name="collection_item_header_filter_size">120dp</dimen>
+
+    <dimen name="collection_item_collection_image_size">160dp</dimen>
+    <dimen name="collection_item_collection_badge_size">50dp</dimen>
+</resources>
